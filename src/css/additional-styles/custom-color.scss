@@ -1,0 +1,27 @@
+// SteelBlue color
+$steelblue-50: #f4f6fb;
+$steelblue-100: #e7ecf7;
+$steelblue-200: #cad7ed;
+$steelblue-300: #9cb6dd;
+$steelblue-400: #668fca;
+$steelblue-500: #4b79bc;
+$steelblue-600: #325897;
+$steelblue-700: #29477b;
+$steelblue-800: #253d67;
+$steelblue-900: #243656;
+
+// Scooter color
+$scooter-50: #effbfc;
+$scooter-100: #d7f4f6;
+$scooter-200: #b4e8ed;
+$scooter-300: #7fd7e1;
+$scooter-400: #44bdcc;
+$scooter-500: #2cafc1;
+$scooter-600: #248396;
+$scooter-700: #246a7a;
+$scooter-800: #255865;
+$scooter-900: #234956;
+
+.custom-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-[#4b79bc] to-[#2cafc1]
+}
