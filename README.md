@@ -1,4 +1,4 @@
-# Nukleos Website
+# React Tailwind Custom Template
 
 
 ## Usage
@@ -30,10 +30,3 @@ npm run build
 - Copyright 2022 [Nukléos](https://nukléos.fr/).  
   
 
-  
-
-
-Credit:  
-
-
-template by Cruip 👉️ [Cruip](https://cruip.com/)
